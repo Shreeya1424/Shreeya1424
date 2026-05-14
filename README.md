@@ -1,4 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)](https://Shreeya1424.io)
 <h1 align="center">Hi 👋, I'm Shreeya Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="top" padding-left: 500% alt="Coding" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
